@@ -1,0 +1,21 @@
+{
+  "name": "d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.4.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.0"
+  }
+}
